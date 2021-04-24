@@ -1,5 +1,7 @@
 # Udacity Data Architect NanoDegree
 
+### Modelling, ERDs, SQL, Snowflake, Data Lakes, Hadoop, Hive, Spark, Governance
+
 ### Some Code you'll find here:
 PostgreSQL Schemas and ETLs, plus ERDs <br>
 Snowflake CLI Commands and SQL for Snowflake, plus ERDs<br>
