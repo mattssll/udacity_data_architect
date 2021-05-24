@@ -16,11 +16,11 @@ Python (Spark and Apache Hudu for Data Lakes)
 <img src="1.Design_HR_DB_Pgresql_Project/ERD_HR_3NF.png">
 3) Designing a Datawarehouse solution in Snowflake (OLAP)<br> 
 ### RDS:
-<img src="2.Data_Warehouses_Snowflake_Project/RDS_DWH_Yelp_Reviews.png">
+<img src="2.Data_Warehouses_Snowflake_Project/ERD_RDS_Yelp_Reviews.png">
 ### DWH (Star Schema):
 <img src="2.Data_Warehouses_Snowflake_Project/ERD_DWH_Yelp_Reviews.png">
 5) Designing a Cloud Data Lake Architecture (AWS)<br>
 6) Designing a Data Governance Solution for a dummie company
 
 ### Certificate
-<img src="certificate.png">
+<img src="Certificate.png">
